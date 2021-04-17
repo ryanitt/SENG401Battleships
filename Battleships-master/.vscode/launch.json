@@ -1,0 +1,510 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JDOMAbout",
+            "request": "launch",
+            "mainClass": "JDOMAbout",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client",
+            "request": "launch",
+            "mainClass": "battleships.client.Client",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventReaderFilter",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.EventReaderFilter",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventScanner",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.EventScanner",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadOnlyNamespaceContextBase",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.ReadOnlyNamespaceContextBase",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReaderToWriter",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.ReaderToWriter",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamReaderFilter",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.StreamReaderFilter",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubReader",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.SubReader",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLEventReaderBase",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLEventReaderBase",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLEventWriterBase",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLEventWriterBase",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLStreamPlayer",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLStreamPlayer",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLStreamRecorder",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLStreamRecorder",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLWriterBase",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLWriterBase",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllocEventParser",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.AllocEventParser",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventParse",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.EventParse",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventWrite",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.EventWrite",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoAllocEventParser",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.NoAllocEventParser",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parse",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.Parse",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch NamespaceContextImpl",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.util.NamespaceContextImpl",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch SymbolTable",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.util.SymbolTable",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch WstxSAXParserFactory",
+            "request": "launch",
+            "mainClass": "com.ctc.wstx.sax.WstxSAXParserFactory",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch JVM",
+            "request": "launch",
+            "mainClass": "com.thoughtworks.xstream.core.JVM",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tokenize",
+            "request": "launch",
+            "mainClass": "com.wutka.dtd.Tokenize",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch Info",
+            "request": "launch",
+            "mainClass": "nu.xom.Info",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZoneInfoCompiler",
+            "request": "launch",
+            "mainClass": "org.joda.time.tz.ZoneInfoCompiler",
+            "projectName": "Battleships Client"
+        },
+        {
+            "type": "java",
+            "name": "Launch JDOMAbout(1)",
+            "request": "launch",
+            "mainClass": "JDOMAbout",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tool",
+            "request": "launch",
+            "mainClass": "antlr.Tool",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tool(1)",
+            "request": "launch",
+            "mainClass": "antlr.build.Tool",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch ASTFrame",
+            "request": "launch",
+            "mainClass": "antlr.debug.misc.ASTFrame",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tool(2)",
+            "request": "launch",
+            "mainClass": "antlr.preprocessor.Tool",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "battleships.server.Main",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventReaderFilter(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.EventReaderFilter",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventScanner(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.EventScanner",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadOnlyNamespaceContextBase(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.ReadOnlyNamespaceContextBase",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReaderToWriter(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.ReaderToWriter",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamReaderFilter(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.StreamReaderFilter",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubReader(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.SubReader",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLEventReaderBase(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLEventReaderBase",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLEventWriterBase(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLEventWriterBase",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLStreamPlayer(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLStreamPlayer",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLStreamRecorder(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLStreamRecorder",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch XMLWriterBase(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.XMLWriterBase",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllocEventParser(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.AllocEventParser",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventParse(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.EventParse",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventWrite(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.EventWrite",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoAllocEventParser(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.NoAllocEventParser",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parse(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.samples.Parse",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch NamespaceContextImpl(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.util.NamespaceContextImpl",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch SymbolTable(1)",
+            "request": "launch",
+            "mainClass": "com.bea.xml.stream.util.SymbolTable",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch WstxSAXParserFactory(1)",
+            "request": "launch",
+            "mainClass": "com.ctc.wstx.sax.WstxSAXParserFactory",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch JVM(1)",
+            "request": "launch",
+            "mainClass": "com.thoughtworks.xstream.core.JVM",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tokenize(1)",
+            "request": "launch",
+            "mainClass": "com.wutka.dtd.Tokenize",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch CtClass",
+            "request": "launch",
+            "mainClass": "javassist.CtClass",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loader",
+            "request": "launch",
+            "mainClass": "javassist.Loader",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dump",
+            "request": "launch",
+            "mainClass": "javassist.tools.Dump",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch framedump",
+            "request": "launch",
+            "mainClass": "javassist.tools.framedump",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Compiler",
+            "request": "launch",
+            "mainClass": "javassist.tools.reflect.Compiler",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loader(1)",
+            "request": "launch",
+            "mainClass": "javassist.tools.reflect.Loader",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Viewer",
+            "request": "launch",
+            "mainClass": "javassist.tools.web.Viewer",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Webserver",
+            "request": "launch",
+            "mainClass": "javassist.tools.web.Webserver",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Info(1)",
+            "request": "launch",
+            "mainClass": "nu.xom.Info",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Version",
+            "request": "launch",
+            "mainClass": "org.hibernate.Version",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Version(1)",
+            "request": "launch",
+            "mainClass": "org.hibernate.annotations.common.Version",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch DB2Dialect",
+            "request": "launch",
+            "mainClass": "org.hibernate.dialect.DB2Dialect",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomVersionOneStrategy",
+            "request": "launch",
+            "mainClass": "org.hibernate.id.uuid.CustomVersionOneStrategy",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch Helper",
+            "request": "launch",
+            "mainClass": "org.hibernate.id.uuid.Helper",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch SchemaExport",
+            "request": "launch",
+            "mainClass": "org.hibernate.tool.hbm2ddl.SchemaExport",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch SchemaUpdate",
+            "request": "launch",
+            "mainClass": "org.hibernate.tool.hbm2ddl.SchemaUpdate",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch SchemaValidator",
+            "request": "launch",
+            "mainClass": "org.hibernate.tool.hbm2ddl.SchemaValidator",
+            "projectName": "Battleships Server"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZoneInfoCompiler(1)",
+            "request": "launch",
+            "mainClass": "org.joda.time.tz.ZoneInfoCompiler",
+            "projectName": "Battleships Server"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Server/Client",
+            "configurations": ["Launch Client", "Launch Main"]
+        }
+    ]
+}
